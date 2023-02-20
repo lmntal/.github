@@ -1,4 +1,4 @@
-# LMNtal, a unifying language and model checking tools †
+# LMNtal, a unifying language and model checking tools
 LMNtal (pronounced "elemental") is a programming and modeling language based on hierarchical graph rewriting.
 It was designed to be a substrate language of diverse computational models, especially those addressing concurrency, 
 mobility and multiset rewriting, including (Colored) Petri Nets, Interaction Nets, the Pi-Calculus, Chemical Abstract Machines, 
