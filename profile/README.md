@@ -4,6 +4,8 @@ It was designed to be a substrate language of diverse computational models, espe
 mobility and multiset rewriting, including (Colored) Petri Nets, Interaction Nets, the Pi-Calculus, Chemical Abstract Machines, 
 Constraint Handling Rules, and Bigraphs. 
 
+<!--
+
 It features point-to-point links to represent connectivity,
 membranes to represent hierarchy and locality, and
 graphical view of programs and computation.
@@ -16,7 +18,6 @@ Various unique features have been integrated into LaViT (LMNtal Visual Tools),
 an integrated development environment of LMNtal, that supports graph visualizer and 
 state-space visualizer that turns out to be very useful for understanding as well as debugging your models and programs.
 
-<!--
 
 **Here are some ideas to get you started:**
 
